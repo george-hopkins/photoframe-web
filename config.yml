@@ -1,0 +1,6 @@
+interval: 300 # seconds to wait between updates
+slides:
+    - 'http://i.imgur.com/X2n0NGK.png'
+    - url: 'http://fullscreengooglemaps.com/'
+      duration: 2
+      wait: 2000 # in case the website loads content dynamically

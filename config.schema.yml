@@ -1,0 +1,23 @@
+map:
+  interval:
+    type: int
+    range:
+      min: 5
+  slides:
+    type: seq
+    required: true
+    seq:
+      - type: str
+      - type: map
+        map:
+          url:
+            type: str
+            required: true
+          duration:
+            type: int
+            range:
+              min: 1
+          wait:
+            type: int
+            range:
+              min: 0
