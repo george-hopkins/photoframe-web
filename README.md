@@ -4,7 +4,7 @@
 
 As my digital photo frame was just lying around, I spent a few hours on this little project to turn it into something useful.
 
-A Raspberry Pi continously captures various websites and shows them on the photo frame. This setup allows you to display any content you like (e.g. weather maps, webcams, timetables, ...). Because my photo frame automatically turns into a USB flash disk as soon as the USB cable is plugged in, you have to physically disconnect the frame before any pictures are displayed. In order to get around this limitation, the USB power rail is controlled by a GPIO pin.
+A Raspberry Pi continuously captures various websites and shows them on the photo frame. This setup allows you to display any content you like (e.g. weather maps, webcams, timetables, ...). Because my photo frame automatically turns into a USB flash disk as soon as the USB cable is plugged in, you have to physically disconnect the frame before any pictures are displayed. In order to get around this limitation, the USB power rail is controlled by a GPIO pin.
 
 ## Usage
 
