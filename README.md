@@ -1,5 +1,6 @@
 # Photoframe Web
 
+[![Hackaday.io](http://badge.s.co/hackaday/skulls/10808.svg)](https://hackaday.io/project/10808-photoframe-web)
 ![License](https://img.shields.io/github/license/george-hopkins/photoframe-web.svg)
 
 As my digital photo frame was just lying around, I spent a few hours on this little project to turn it into something useful.
